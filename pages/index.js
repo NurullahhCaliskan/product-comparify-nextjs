@@ -12,7 +12,7 @@ function Home() {
                         <div className="pt-12 text-center">
                             <div className="max-w-2xl mx-auto mb-8">
                                 <h2 className="text-3xl lg:text-5xl lg:leading-normal mb-4 font-bold font-heading wow animate__animated animate__fadeIn">
-                                    Analyze your competitors' Shopify products closely <br/>
+                                    Analyze your competitors Shopify products closely <br/>
                                     <span className="text-blue-500">Be aware of product price changes</span>
                                 </h2>
                                 <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
