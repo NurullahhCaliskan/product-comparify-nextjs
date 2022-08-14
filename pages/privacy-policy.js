@@ -26,7 +26,9 @@ const BlogSingle2 = () => {
 
                                 Personal Information the App Collects
 
-                                When you install the App, we are automatically able to access certain types of information from your Shopify account: /products-count = react to merchant's products, /auth : react to session
+                                When you install the App, we are automatically able to access certain types of information from your Shopify account: /merchant-products = react to merchant's products, /auth : react to session
+
+                                The websites you add are scanned daily by Product Comparify. We are not responsible for possible complaints and obstacles.
 
                                 Additionally, we collect the following types of personal information from you and/or your customers once you have installed the App: Information about you and others who may access the App on behalf of your store, such as your name, address, email address, phone number, and billing information; Information about individuals who visit your store, such as their IP address, web browser details, time zone, and information about the cookies installed on the particular device.
 
